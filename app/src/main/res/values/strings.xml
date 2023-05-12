@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">prac2app</string>
+    <string name="TextView2">   MADPractical</string>
+    <string name="textView">Hello World!</string>
+    <string name="toggleButton">FOLLOW</string>
+    <string name="toggleButton2">MESSAGE</string>
+    <string name="textView2">Plain Text</string>
 </resources>
